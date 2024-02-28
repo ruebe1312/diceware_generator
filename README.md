@@ -8,7 +8,7 @@ Lange, komplizierte Passwörter sind schwer zu merken und verleiten deshalb zu s
 
 ### Installation:
 
-Um die ANwendung zu nutzen wird die [Rust Umgebung](https://rustup.rs/) benötigt. Anschließend reichen die folgenden Befehle:
+Um die Anwendung zu nutzen wird die [Rust Umgebung](https://rustup.rs/) benötigt. Anschließend reichen die folgenden Befehle:
 
 ```
 git clone https://github.com/ruebe1312/diceware_generator.git
